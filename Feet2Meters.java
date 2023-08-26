@@ -1,3 +1,5 @@
+// Author Nathan Mc 
+// Date 08/26/2023
 // Coversion between Feet and Meters Table
 public class Feet2Meters {
 	/**Main Method*/
